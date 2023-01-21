@@ -1,0 +1,68 @@
+
+.home-container{
+    max-width: 500px;
+    margin: 30px auto;
+    overflow: auto;
+    min-height: 300px;
+    padding: 30px;
+    border: 1px solid #959ba3;
+    border-radius: 25px;
+}
+
+.filter{
+    max-width: 500px;
+    margin: 20px auto;
+    overflow: auto;
+    min-height: 20px;
+    padding-top: 20px;
+}
+
+.filter h1{
+    font-size: 23px;
+}
+
+.buttons-container{
+    margin-top: 18px;
+    
+}
+
+.buttomFilter{
+    
+    margin-right: 10px;
+    padding: 10px 20px;
+    height: 40px;
+    background: #1FCC79;
+    border-radius: 32px;
+    border: none;
+    color: #FFFFFF;
+    font-size: 15px;
+ 
+}
+
+.button-add{
+    margin-right: 10px;
+    padding: 10px 20px;
+    height: 40px;
+    background: #1FCC79;
+    border-radius: 32px;
+    border: none;
+    color: #FFFFFF;
+    font-size: 15px;
+}
+
+.button-logout{
+    margin-right: 10px;
+    padding: 10px 20px;
+    height: 40px;
+    background: #959ba3;;
+    border-radius: 32px;
+    border: none;
+    color: #FFFFFF;
+    font-size: 15px;
+    
+}
+
+.buttons-home{
+    margin-top: 80px;
+    margin-left: 120px;
+}

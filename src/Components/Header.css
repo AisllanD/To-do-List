@@ -1,0 +1,31 @@
+
+.filter{
+    max-width: 500px;
+    margin: 20px auto;
+    overflow: auto;
+    min-height: 20px;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+
+.filter h1{
+    font-size: 23px;
+}
+
+.buttons-container{
+    margin-top: 18px;
+    
+}
+
+.buttomFilter{
+    
+    margin-right: 10px;
+    padding: 10px 20px;
+    height: 40px;
+    background: #1FCC79;
+    border-radius: 32px;
+    border: none;
+    color: #FFFFFF;
+    font-size: 15px;
+ 
+}

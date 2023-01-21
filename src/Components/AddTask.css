@@ -1,0 +1,22 @@
+
+.AddTask-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.AddTask-container h4{
+    font-size: 20px;
+    margin-bottom: 12px;
+}
+
+.input-AddTask{
+    height: 40px;
+    background-color: #FFFFFF;
+    border: 1px solid #D0DBEA;
+    border-radius: 32px;
+    margin-bottom: 16px;
+    padding: 25px;
+}
